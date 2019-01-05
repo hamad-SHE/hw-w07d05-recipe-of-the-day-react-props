@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+
+}
+
+.RecipeOfTheDay{
+
+    float: left;
+    background-color: aquamarine;
+    width: 80%;
+    height: 70%;
+}
+
+
+.Recipes{
+    float: left;
+    background-color: salmon;
+
+}
